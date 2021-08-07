@@ -1,6 +1,5 @@
 # wiki-api
-base CRUD api with Mongoose and Express 
-<hr>
+base CRUD api with Mongoose and Express
 <br>
 "body-parser": "^1.18.3",
 "ejs": "^2.6.1",
